@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "Week 7",
+			"path": "../../Week 7"
+		},
+		{
+			"name": "1. Very Easy",
+			"path": "../1. Very Easy"
+		},
+		{
+			"name": "3. Medium",
+			"path": "."
+		},
+		{
+			"name": "2. Easy",
+			"path": "../2. Easy"
+		},
+		{
+			"name": "5. Very Hard",
+			"path": "../5. Very Hard"
+		},
+		{
+			"name": "4. Hard",
+			"path": "../4. Hard"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
